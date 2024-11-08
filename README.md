@@ -40,7 +40,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ```bash
 ├── app
-│   ├── src
+│   ├── src-
 │   │   ├── main
 │   │   │   ├──
 java/com/example/imccalculator
@@ -67,7 +67,7 @@ app
 
 └── README.md                               # Este arquivo
 
- 
+ ```
 ## 🎨 Design e Prototipagem
  
 A interface do app foi criada usando **ConstraintLayout** para manter a responsividade em diferentes tamanhos de tela.
@@ -80,11 +80,13 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
  
 Na tela principal, o usuário insere o número de pessoas que irão a festa e o tempo de duração da festa..
  
-![Figura 1: Exemplo da tela principal do aplicativo](caminho/para/a/imagem.png)
+ ![Texto Alternativo](https://github.com/ribarski-Vitor/appBebidaFesta/blob/master/telaM.png?raw=true)
 
+ 2. **Tela Secundaria**
 
-
- *Figura 1: Exemplo da tela principal do aplicativo.*
+    Na tela secundaria, o usuário poderá ver a quantidade de bebidas que será consumida pelas pessoas durante o período da festa.
+    
+    ![Texto Alternativo](https://github.com/ribarski-Vitor/appBebidaFesta/blob/master/tela1.png?raw=true)
  
 ## 👨‍💻 Desenvolvedores –
 
